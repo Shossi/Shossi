@@ -7,7 +7,7 @@
 <br></br>
 
 
-- 🌱 I’m currently learning **Monitoring** <img align="right" style="width:11rem; height:auto" src="israel.png"/>
+- 🌱 I’m currently learning about **Monitoring** <img align="right" style="width:11rem; height:auto" src="israel.png"/>
 
 - 👨‍💻 All of my projects are available [@Shossi](github.com/Shossi) 
 
