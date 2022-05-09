@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available [@Shossi](github.com/Shossi) 
 
 - 💬 Ask me about **DevOps and Anime 😆**
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- ⚡ Fun fact **Coding is a passion and not a profession.**
 <br></br>
 
 <br></br>
